@@ -1,3 +1,5 @@
+# TAKEN FROM https://github.com/jamesmartin/react-remote-component-demo
+
 # React Remote Components - A Demonstration
 
 What if, we could reuse React components by dynamically loading them from remote URLs?
