@@ -1,0 +1,22 @@
+{
+  "name": "demo-master",
+  "version": "1.0.0",
+  "description": "bla",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "build": "jsx src/ build/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "bla"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "tae",
+  "license": "ISC",
+  "dependencies": {
+    "react-tools": "^0.13.3"
+  }
+}
